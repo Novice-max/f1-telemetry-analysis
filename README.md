@@ -10,6 +10,9 @@ tyre degradation, and race strategy.
 Multi-driver pace evolution across a full race distance.
 Identifies performance gaps, tyre stint transitions, and strategic windows.
 
+**2023 British GP — HAM vs VER vs NOR**
+![British GP Lap Times](outputs/british_gp_2023_lap_times.png)
+
 ### 2. Tyre Degradation Model
 Linear regression model measuring tyre degradation rate (seconds lost per lap)
 for each driver on a given compound.
